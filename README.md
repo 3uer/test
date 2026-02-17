@@ -1,3 +1,3 @@
 # test
 
-https://discordapp.com/api/webhooks/1471509659104837643/OtKaO9hb8q5BaBSj8XrOySd7DRI6kmDekySk6jkCEZKnjvEtG7aNQY4ORxFVZKhE_5_y
+https://discord.com/api/webhooks/1471946527252549757/eaHrGZyAFaoqT30dXOeR7cOMjIvoV5OSyQXR3wn0C5szU7EraDHEiLf9BP4op9G0NISM
